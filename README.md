@@ -31,7 +31,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/your-name/question-generator.git
+git clone https://github.com/gyeongseo05/question-generator.git
 cd question-generator
 
 ### 2. 安装依赖
